@@ -1,4 +1,4 @@
-opencv-python-headless==4.2.0.32
+opencv-python-headless==4.5.3.56
 click==8.0.1
 Flask==2.0.1
 gunicorn==20.1.0
