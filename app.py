@@ -1,5 +1,6 @@
 from flask import Flask, request, app, render_template, redirect
 from ocrmodel import ocrHandler
+
 import cv2
 import numpy as np
 
