@@ -37,5 +37,9 @@ Run the Project
 ```
 
 ## Lessons Learned
-
 There is no libaray of function or image preprossing step that can work on all the image 
+
+## References
+1. https://flask.palletsprojects.com/en/2.2.x/ Flask
+2. https://docs.python.org/3/library/re.html Regex
+3. https://tesseract-ocr.github.io/ Tesseract
