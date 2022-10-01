@@ -10,6 +10,9 @@ Using TesseractOcr and OpenCv this project can sucessfull extract adharnumber, D
 2) Aadhar Number
 3) Gender
 
+## Preprocessing Steps
+![alt dashboard](ImageTesseract/prepossing.png)
+
 # Upload page
 ![alt dashboard](ImageTesseract/dashboard.png)
 
